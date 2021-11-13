@@ -77,7 +77,7 @@
 - Ctrl+X to boot, install Manjaro and reboot
 
 ### Manjaro First Run
-- When GRUB show, select "Advanced Params"
+- When GRUB shows, select "Advanced Params"
 - Press "E" for edit booting params
 - Add to the end of "LINUX" string:
 
