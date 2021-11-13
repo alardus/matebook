@@ -112,7 +112,7 @@
 
 `cd <sof-bin-archive>`
 
-`./install.sh <version>` 
+`./install.sh <version>` eg. `./install.sh v1.9`
 
 - Reboot 
 - Check that audio works
