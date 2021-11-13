@@ -50,16 +50,16 @@
 - Fingerprint sensor doesn't works (still no drivers)
 
 ## Installation
-**Disabling Secure Boot**
+### Disabling Secure Boot
 - Press F2 on boot stage
 - Disable "Secure boot"
 - Save and Exit
 
-**Booting to Installer**
+### Booting to Installer
 - Press F12 on boot stage
 - Select USB flash with Manjaro
 
-**Installing Manjaro**
+### Installing Manjaro
 - Select "Boot"
 - Press "E" for edit booting params
 - Add to the end of "LINUX" string:
@@ -68,7 +68,7 @@
 
 - Ctrl+X to boot, install Manjaro and reboot
 
-**Manjaro First Run**
+### Manjaro First Run
 - When GRUB show, select "Advanced Params"
 - Press "E" for edit booting params
 - Add to the end of "LINUX" string:
@@ -78,7 +78,7 @@
 - Ctrl+X to boot
 
 ## Fixes
-**Video**
+### Video
 - Edit boot params:
 
 `sudo nano /etc/default/grub`
@@ -93,7 +93,7 @@
 
 `sudo update-grub`
 
-**Audio**
+### Audio
 - Check for hardware errors:
 
 `sudo dmesg | grep audio`
