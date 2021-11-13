@@ -91,7 +91,7 @@
 
 `sudo nano /etc/default/grub`
 
-- Add "i915.enable_psr=0" to the end of LINUX strings:
+- Add "i915.enable_psr=0" to the end of LINUX strings, eg.:
 
 `GRUB_CMDLINE_LINUX_DEFAULT="quiet splash apparmor=1 security=apparmor udev.log_priority=3 i915.enable_psr=0"`
 
