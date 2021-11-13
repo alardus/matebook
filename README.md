@@ -41,21 +41,24 @@
 <font color="#3465A4"><b>Audio:</b></font> Intel Tiger Lake-LP Smart Sound Audio
 <font color="#3465A4"><b>Network:</b></font> Intel Wi-Fi 6 AX201
 <font color="#3465A4"><b>Bluetooth:</b></font> Intel AX201 Bluetooth
+<font color="#3465A4"><b>Fingerprint Scanner:</b></font> Goodix GXFP5187
 </pre>
 
 ## What's Good (out of the box)
 - Touchpad and gestures
+- Tochscreen
 - Wi-Fi
 - Bluetooth
 - FN keys
-- Webcamera
+- Camera
 - Mic
 - Hibernation
 
 ## What's Bad (out of the box)
-- Video tearings and freezes, especialy on Wayland (see hot to fix below)
-- Audio system doesn't works at all (see hot to fix below)
-- Fingerprint sensor doesn't works (still no drivers)
+- Video tearings and freezes, especialy on Wayland (Intel Iris Xe, see hot to fix below)
+- Audio system doesn't works at all (Intel Tiger Lake, see hot to fix below)
+- Poor audio quality because only 2 of 4 dynamics are works (still no works)
+- Fingerprint sensor doesn't works (Goodix GXFP5187 still has no drivers)
 
 ## Installation
 ### Disabling Secure Boot
@@ -119,3 +122,4 @@
 
 ## Still Broken
 - Fingerprint sensor still doesn't works cause no drivers for it
+- Poor audio quality because only 2 of 4 dynamics are works
