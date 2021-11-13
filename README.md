@@ -1,5 +1,29 @@
 # How to cook Manjaro Gnome on MateBook X Pro 2021 
 
+## Final Overview
+<pre><font color="#4E9A06"><b>██████████████████  ████████</b></font>   <font color="#4E9A06"><b>alardus</b></font>@<font color="#4E9A06"><b>matebook</b></font> 
+<font color="#4E9A06"><b>██████████████████  ████████</b></font>   ---------------- 
+<font color="#4E9A06"><b>██████████████████  ████████</b></font>   <font color="#4E9A06"><b>OS</b></font>: Manjaro Linux x86_64 
+<font color="#4E9A06"><b>██████████████████  ████████</b></font>   <font color="#4E9A06"><b>Host</b></font>: MACHD-WXX9 M1090 
+<font color="#4E9A06"><b>████████            ████████</b></font>   <font color="#4E9A06"><b>Kernel</b></font>: 5.13.19-2-MANJARO 
+<font color="#4E9A06"><b>████████  ████████  ████████</b></font>   <font color="#4E9A06"><b>Uptime</b></font>: 3 hours, 42 mins 
+<font color="#4E9A06"><b>████████  ████████  ████████</b></font>   <font color="#4E9A06"><b>Packages</b></font>: 1191 (pacman) 
+<font color="#4E9A06"><b>████████  ████████  ████████</b></font>   <font color="#4E9A06"><b>Shell</b></font>: zsh 5.8 
+<font color="#4E9A06"><b>████████  ████████  ████████</b></font>   <font color="#4E9A06"><b>Resolution</b></font>: 3000x2000 
+<font color="#4E9A06"><b>████████  ████████  ████████</b></font>   <font color="#4E9A06"><b>DE</b></font>: GNOME 40.5 
+<font color="#4E9A06"><b>████████  ████████  ████████</b></font>   <font color="#4E9A06"><b>WM</b></font>: Mutter 
+<font color="#4E9A06"><b>████████  ████████  ████████</b></font>   <font color="#4E9A06"><b>WM Theme</b></font>: Adwaita-maia-dark 
+<font color="#4E9A06"><b>████████  ████████  ████████</b></font>   <font color="#4E9A06"><b>Theme</b></font>: Adwaita-maia-dark [GTK2/3] 
+<font color="#4E9A06"><b>████████  ████████  ████████</b></font>   <font color="#4E9A06"><b>Icons</b></font>: Adwaita [GTK2/3] 
+                               <font color="#4E9A06"><b>Terminal</b></font>: gnome-terminal 
+                               <font color="#4E9A06"><b>CPU</b></font>: 11th Gen Intel i7-1165G7 (8) @ 4.700GHz 
+                               <font color="#4E9A06"><b>GPU</b></font>: Intel TigerLake-LP GT2 [Iris Xe Graphics] 
+                               <font color="#4E9A06"><b>Memory</b></font>: 7216MiB / 15786MiB 
+
+                               <span style="background-color:#2E3436"><font color="#2E3436">   </font></span><span style="background-color:#CC0000"><font color="#CC0000">   </font></span><span style="background-color:#4E9A06"><font color="#4E9A06">   </font></span><span style="background-color:#C4A000"><font color="#C4A000">   </font></span><span style="background-color:#3465A4"><font color="#3465A4">   </font></span><span style="background-color:#75507B"><font color="#75507B">   </font></span><span style="background-color:#06989A"><font color="#06989A">   </font></span><span style="background-color:#D3D7CF"><font color="#D3D7CF">   </font></span>
+                               <span style="background-color:#555753"><font color="#555753">   </font></span><span style="background-color:#EF2929"><font color="#EF2929">   </font></span><span style="background-color:#8AE234"><font color="#8AE234">   </font></span><span style="background-color:#FCE94F"><font color="#FCE94F">   </font></span><span style="background-color:#729FCF"><font color="#729FCF">   </font></span><span style="background-color:#AD7FA8"><font color="#AD7FA8">   </font></span><span style="background-color:#34E2E2"><font color="#34E2E2">   </font></span><span style="background-color:#EEEEEC"><font color="#EEEEEC">   </font></span>
+</pre>
+
 ## MateBook X Pro 2021 Spec
 <pre>
 <font color="#3465A4"><b>Type:</b></font> Laptop <font color="#3465A4"><b>System:</b></font> HUAWEI <font color="#3465A4"><b>product:</b></font> MACHD-WXX9
@@ -85,5 +109,3 @@
 
 ## Still Broken
 - Fingerprint sensor still doesn't works cause no drivers for it
-
-
