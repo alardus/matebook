@@ -57,8 +57,8 @@
 ## What's Bad (out of the box)
 - Video tearings and freezes, especialy on Wayland (Intel Iris Xe, see hot to fix below)
 - Audio system doesn't works at all (Intel Tiger Lake, see hot to fix below)
-- Poor audio quality because only 2 of 4 dynamics are works (still no works)
-- Fingerprint sensor doesn't works (Goodix GXFP5187 still has no drivers)
+- Poor audio quality because only 2 of 4 dynamics are works (here is the fix for 2020 model but still not works for my 2021 lineup, https://github.com/samuelmatn/guides/blob/main/manjaro-matebook.md#set-up-40-surround-speakers)
+- Fingerprint sensor doesn't works (Goodix GXFP5187 still has no drivers, https://gitlab.freedesktop.org/libfprint/libfprint/-/issues/112)
 
 ## Installation
 ### Disabling Secure Boot
@@ -121,5 +121,5 @@
 - Check that audio works
 
 ## Still Broken
-- Fingerprint sensor still doesn't works cause no drivers for it
-- Poor audio quality because only 2 of 4 dynamics are works
+- Fingerprint sensor still doesn't works cause no drivers for it (https://gitlab.freedesktop.org/libfprint/libfprint/-/issues/112)
+- Poor audio quality because only 2 of 4 dynamics are works (here is the fix for 2020 model but still not works for my 2021 lineup, https://github.com/samuelmatn/guides/blob/main/manjaro-matebook.md#set-up-40-surround-speakers)
