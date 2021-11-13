@@ -24,6 +24,14 @@
                                <span style="background-color:#555753"><font color="#555753">   </font></span><span style="background-color:#EF2929"><font color="#EF2929">   </font></span><span style="background-color:#8AE234"><font color="#8AE234">   </font></span><span style="background-color:#FCE94F"><font color="#FCE94F">   </font></span><span style="background-color:#729FCF"><font color="#729FCF">   </font></span><span style="background-color:#AD7FA8"><font color="#AD7FA8">   </font></span><span style="background-color:#34E2E2"><font color="#34E2E2">   </font></span><span style="background-color:#EEEEEC"><font color="#EEEEEC">   </font></span>
 </pre>
 
+<pre>
+<font color="#3465A4"><b>Graphics:  Device-1:</b></font> Intel TigerLake-LP GT2 [Iris Xe Graphics] <font color="#3465A4"><b>driver:</b></font> i915 <font color="#3465A4"><b>v:</b></font> kernel
+           <font color="#3465A4"><b>Device-2:</b></font> kingcome HD Camera <font color="#3465A4"><b>type:</b></font> USB <font color="#3465A4"><b>driver:</b></font> uvcvideo
+           <font color="#3465A4"><b>Display:</b></font> <font color="#3465A4"><b>server:</b></font> X.org 1.20.13 <font color="#3465A4"><b>driver:</b></font> <font color="#3465A4"><b>loaded:</b></font> i915 <font color="#3465A4"><b>note:</b></font> n/a (using device driver)
+           <font color="#3465A4"><b>resolution:</b></font> &lt;missing: xdpyinfo&gt;
+           <font color="#3465A4"><b>OpenGL:</b></font> <font color="#3465A4"><b>renderer:</b></font> Mesa Intel Xe Graphics (TGL GT2) <font color="#3465A4"><b>v:</b></font> 4.6 Mesa 21.2.3
+</pre>
+
 ## MateBook X Pro 2021 Spec
 <pre>
 <font color="#3465A4"><b>Type:</b></font> Laptop <font color="#3465A4"><b>System:</b></font> HUAWEI <font color="#3465A4"><b>product:</b></font> MACHD-WXX9
