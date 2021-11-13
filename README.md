@@ -1,4 +1,4 @@
-# How to cook Manjaro Gnome on MateBook X Pro 2021 
+# How to cook Manjaro on MateBook X Pro 2021 
 
 ## Final Overview
 <pre><font color="#4E9A06"><b>██████████████████  ████████</b></font>   <font color="#4E9A06"><b>alardus</b></font>@<font color="#4E9A06"><b>matebook</b></font> 
