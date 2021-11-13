@@ -93,8 +93,9 @@
 
 - Add "i915.enable_psr=0" to the end of LINUX strings:
 
-`GRUB_CMDLINE_LINUX_DEFAULT="quiet splash apparmor=1 security=apparmor udev.log_priority=3 i915.enable_psr=0"
- GRUB_CMDLINE_LINUX="i915.enable_psr=0"`
+`GRUB_CMDLINE_LINUX_DEFAULT="quiet splash apparmor=1 security=apparmor udev.log_priority=3 i915.enable_psr=0"`
+
+`GRUB_CMDLINE_LINUX="i915.enable_psr=0"`
 
 - Save and exit
 - Update GRUB:
@@ -110,7 +111,8 @@
 - Download latest release and install it:
 
 `cd <sof-bin-archive>`
-`./install.sh <version>` ex. `./install.sh v1.9` 
+
+`./install.sh <version>` 
 
 - Reboot 
 - Check that audio works
