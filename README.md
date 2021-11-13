@@ -55,8 +55,8 @@
 - Hibernation
 
 ## What's Bad (out of the box)
-- Video tearings and freezes, especialy on Wayland (Intel Iris Xe, see hot to fix below)
-- Audio system doesn't works at all (Intel Tiger Lake, see hot to fix below)
+- Video tearings and freezes, especialy on Wayland (Intel Iris Xe, see how to fix below)
+- Audio system doesn't works at all (Intel Tiger Lake, see how to fix below)
 - Poor audio quality because only 2 of 4 dynamics are works (here is the fix for 2020 model but still not works for my 2021 lineup, https://github.com/samuelmatn/guides/blob/main/manjaro-matebook.md#set-up-40-surround-speakers)
 - Fingerprint sensor doesn't works (Goodix GXFP5187 still has no drivers, https://gitlab.freedesktop.org/libfprint/libfprint/-/issues/112)
 
