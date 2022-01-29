@@ -71,8 +71,8 @@
 
 ## Fixes
 
-### Fix many issues with one step
-First of all we need to switch to the latest Ubuntu OEM kernel (like 5.14 or above) with our hardware support:
+### Fix many issues with one tap
+We need to switch to the latest Ubuntu OEM kernel (like 5.14 or above) with our hardware support:
 
 `sudo apt install linux-oem-20.04d`
 `sudo apt remove linux-generic linux-headers-generic linux-image-generic`
