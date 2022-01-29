@@ -81,12 +81,7 @@ First of all we need to switch to the latest Ubuntu OEM kernel (like 5.14 or abo
 - When GRUB shows, select "Advanced Params"
 - Select lastest kernel version and boot into it
 
-### Bluetooth
-- {TBD}
-
-- Reboot 
-- Check that Bluetooth works
-
 ## Still Broken
+- Bluetooth
 - Fingerprint sensor still doesn't works cause no drivers for it (https://gitlab.freedesktop.org/libfprint/libfprint/-/issues/112)
 - Poor audio quality because only 2 of 4 dynamics are works (here is the fix for 2020 model but still not works for my 2021 lineup, https://github.com/samuelmatn/guides/blob/main/manjaro-matebook.md#set-up-40-surround-speakers)
